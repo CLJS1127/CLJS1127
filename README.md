@@ -15,8 +15,8 @@
 <br />
 <br />
 
-<a href="mailto:seinee114@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-seinee114%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:codelee0907@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-codelee0907gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.notion.so/32fe240deade81b19512fe800d717a33">
   <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio" />
