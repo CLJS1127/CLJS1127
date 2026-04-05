@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+<img src="https://capsule-render.vercel.app/api?type=rect&color=#006e3f&height=100%&section=header&text="안녕하세요. 소통하는 개발자 이준수 입니다.&fontSize=16px" />
 <!--
 **CLJS1127/CLJS1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
