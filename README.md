@@ -60,14 +60,6 @@
 
 ---
 
-## Education
-
-### Korea IT Academy
-- 과정명: AI 활용 소프트웨어 개발 및 응용과정C
-- 기간: 2025.11 ~ 2026.05
-
----
-
 ## Currently
 
 - Java & Spring 기반 백엔드 역량 강화
